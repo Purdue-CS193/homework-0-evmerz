@@ -1,6 +1,7 @@
 ## Evelyn Merz's First CS193 Homework
 
-## Things I Like about CS193:
+### Things I Like about CS193:
+
 - Teaching Team
 - Easy quizzes
 - No exams
